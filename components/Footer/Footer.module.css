@@ -1,0 +1,9 @@
+.footer{
+    height: 80px;
+    background-color: cornflowerblue;
+  }
+ /* @media only screen and (max-width: 768px) {
+    .main {
+      background-color: rgb(150, 44, 44);
+    }
+  }*/
